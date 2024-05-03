@@ -11,7 +11,9 @@
     - Основные библиотеки: &nbsp; `pandas` , `numpy` , `sklearn` , `matplotlib` ;
     - ML-алгоритмы: &nbsp; `kNN` , `Decision Tree` .
 
-  - **Описание:**<br> &nbsp; &nbsp; Программа, преобразующая множество excel-файлов (с вручную записанными данными) в единую csv-таблицу с подготовленными, нормированными и достаточными данными для последующей их агрегации, аналитики и визуализации.
+  - **Описание:**<br>
+  
+  &nbsp; &nbsp; Программа, преобразующая множество excel-файлов (с вручную записанными данными) в единую csv-таблицу с подготовленными, нормированными и достаточными данными для последующей их агрегации, аналитики и визуализации.
   
   - **Основные процессы:**
     - сбор данных;
@@ -20,6 +22,7 @@
     - классифицирование по наибольшему подобию, применяя метод ___kNN___;
     - перевод определенных данных в признаковое пространство и дальнейшая классификация при помощи ___Decision Tree___ модели;
     - агрегация, аналитика и визуализация (формирование презентации).
+
       
 - ### [**Trading_assistant.**](https://github.com/primera7790/Trading_assistant) &nbsp; &nbsp;
 
@@ -32,28 +35,37 @@
     - Телеграм бот: &nbsp; `aiogram` ;
     - Автоматизация процессов: &nbsp; `asyncio` , `apscheduler` , `celery` , `rabbitmq` , `docker` ;
     
-  - **Описание:**<br> &nbsp; &nbsp; __Задача программы:__ &nbsp; снижение психологической нагрузки на трейдера во время биржевой торговли.<br>
+  - **Описание:**<br>
+  
+  &nbsp; &nbsp; __Задача программы:__ &nbsp; снижение психологической нагрузки на трейдера во время биржевой торговли.<br>
   &nbsp; &nbsp; __Способ достижения:__ &nbsp; математически обоснованное регулирование объемов сделок и исключение необоснованного риска. При необходимости - ограничение торговли.<br>
   &nbsp; &nbsp; __Преимущества при использовании:__ &nbsp; трейдер изолирован от информации о промежуточном финансовом результате, что позволяет не думать о состоянии баланса, а сконцентрироваться на сделке.
+
   
-  - **Основные процессы:**
-    - Запуск сайта;
-    - Выбор нужного режима работы (остаться на сайте, либо взаимодействие через Телеграм);
-    - Парсинг данных с интернет-ресурса, отображающего актуальную статистику торговли;
-    - В случае обнаружения транзакции (сделки), в базу данных вносятся новые данные;
-    - На основе информации о совершенной сделке, алгоритм вычисляет релевантный объем следующей, либо сообщает о необходимости прекращния торговли;
-    - Итог отображается на сайте или отправляется в Телеграм-бот (в зависимости от выбранного режима).
 
 ## **> Сверхполезная практика**
-- [**Neural_network_on_python.**](https://github.com/primera7790/Neural_network_on_python) &nbsp; &nbsp; __
-- [**ML_training_Yandex.**](https://github.com/primera7790/ML_training_Yandex) &nbsp; &nbsp; __
-- [**Algo-3.0-Yandex.**](https://github.com/primera7790/Algo-3.0-Yandex) &nbsp; &nbsp; __
+- ### [**Neural_network_on_python.**](https://github.com/primera7790/Neural_network_on_python) &nbsp; &nbsp; __
+- ### [**ML_training_Yandex.**](https://github.com/primera7790/ML_training_Yandex) &nbsp; &nbsp; __
+- ### [**Algo-3.0-Yandex.**](https://github.com/primera7790/Algo-3.0-Yandex) &nbsp; &nbsp; __
   
 ## **> Прочие работы на закрепление знаний**
-- [**Django_store_edu.**](https://github.com/primera7790/Django_store_edu) &nbsp; &nbsp; __
-- [**html_css_project.**](https://github.com/primera7790/html_css_project) &nbsp; &nbsp; __
-- [**health_diet_parser.**](https://github.com/primera7790/health_diet_parser) &nbsp; &nbsp; __
-- [**amalgama_lab_parser.**](https://github.com/primera7790/amalgama_lab_parser) &nbsp; &nbsp; __
-- [**Trading_assist_bot.**](https://github.com/primera7790/Trading_assist_bot) &nbsp; &nbsp; __
-- [**Owl_Telegram_bot.**](https://github.com/primera7790/Owl_Telegram_bot) &nbsp; &nbsp; __
-- [**Sticker_Telegram_bot.**](https://github.com/primera7790/Sticker_Telegram_bot) &nbsp; &nbsp; __
+- ### [**Django_store_edu.**](https://github.com/primera7790/Django_store_edu) &nbsp; &nbsp;
+  
+  - **Используемые технологии:**
+    - Язык программирования: &nbsp; `python` ;
+    - Фреймворк: &nbsp; `django` ;
+    - Написание сайта: &nbsp; `html` , `css` , `JavaScript` ;
+    - База данных: &nbsp; `sqlite3` ;
+    - Вспомогательные библиотеки: &nbsp; `pillow` .
+
+  - **Описание:**<br>
+  
+  &nbsp; &nbsp; Онлайн магазин одежды, содержащий каталог с товарами по категориям, личный кабинет с корзиной, а также возможность регистрации и авторизации. 
+    
+      
+- ### [**html_css_project.**](https://github.com/primera7790/html_css_project) &nbsp; &nbsp; __
+- ### [**health_diet_parser.**](https://github.com/primera7790/health_diet_parser) &nbsp; &nbsp; __
+- ### [**amalgama_lab_parser.**](https://github.com/primera7790/amalgama_lab_parser) &nbsp; &nbsp; __
+- ### [**Trading_assist_bot.**](https://github.com/primera7790/Trading_assist_bot) &nbsp; &nbsp; __
+- ### [**Owl_Telegram_bot.**](https://github.com/primera7790/Owl_Telegram_bot) &nbsp; &nbsp; __
+- ### [**Sticker_Telegram_bot.**](https://github.com/primera7790/Sticker_Telegram_bot) &nbsp; &nbsp; __
