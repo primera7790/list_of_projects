@@ -53,11 +53,11 @@
 
   - **Описание:**<br>
   
-  &nbsp; &nbsp; Полносвязная нейронная сеть, написанная с нуля, только на связке python + numpy.<br>
-  &nbsp; &nbsp; __Задача алгоритма:__ &nbsp; распознавание (классификация) рукописных цифр.<br>
-  &nbsp; &nbsp; __Используемые данные:__ &nbsp; датасет MNIST из библиотеки torchvision, PyTorch.<br>
-  &nbsp; &nbsp; __Функция активации:__ &nbsp; ReLU.<br>
-  &nbsp; &nbsp; __Функция потерь:__ &nbsp; softmax + cross-entropy.
+  &nbsp; &nbsp; Полносвязная нейронная сеть, написанная с нуля, только на связке python + numpy:<br>
+  &nbsp; &nbsp; &nbsp; - &nbsp; Задача алгоритма: &nbsp; распознавание (классификация) рукописных цифр.<br>
+  &nbsp; &nbsp; &nbsp; - &nbsp; Используемые данные: &nbsp; датасет MNIST из библиотеки torchvision, PyTorch.<br>
+  &nbsp; &nbsp; &nbsp; - &nbsp; Функция активации: &nbsp; ReLU.<br>
+  &nbsp; &nbsp; &nbsp; - &nbsp; Функция потерь: &nbsp; softmax + cross-entropy.
       
 - ### [**ML_training_Yandex**](https://github.com/primera7790/ML_training_Yandex) &nbsp; &nbsp; __
 - ### [**Algo-3.0-Yandex**](https://github.com/primera7790/Algo-3.0-Yandex) &nbsp; &nbsp; __
