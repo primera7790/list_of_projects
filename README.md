@@ -118,7 +118,27 @@
   &nbsp; &nbsp; &nbsp; - &nbsp; окно авторизации.<br>
     
       
-- ### [**html_css_project**](https://github.com/primera7790/html_css_project) &nbsp; &nbsp; __
+- ### [**Roman_project + wow_project (html, css only)**](https://github.com/primera7790/Roman_project_html_css_only) &nbsp; &nbsp; 
+
+  - **Используемые технологии:**
+    - HTML5;
+    - CSS3.
+      
+  - **Описание:**<br>
+
+  &nbsp; &nbsp; Roman_project - шуточная страничка про друга.. для друга. Практиковался писать несложные страницы.<br>
+  &nbsp; &nbsp; wow_project - страничка-тест на том же скелете. А насколько хорошо Вы знакомы с классами в World of Warcraft?<br>
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  Задача - определить класс по сленговому названию.
+
+  - **Ссылки для ознакомления:**<br>
+
+  &nbsp; &nbsp; Roman_project: &nbsp; https://primera7790.github.io/Roman_project_html_css_only/ <br>
+  &nbsp; &nbsp; wow_project: &nbsp; https://primera7790.github.io/Roman_project_html_css_only/wow_project/
+
+
+
+
 - ### [**health_diet_parser**](https://github.com/primera7790/health_diet_parser) &nbsp; &nbsp; __
 - ### [**amalgama_lab_parser**](https://github.com/primera7790/amalgama_lab_parser) &nbsp; &nbsp; __
 - ### [**Trading_assist_bot**](https://github.com/primera7790/Trading_assist_bot) &nbsp; &nbsp; __
