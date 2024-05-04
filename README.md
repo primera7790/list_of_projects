@@ -44,7 +44,21 @@
   
 
 ## **> Сверхполезная практика**
-- ### [**Neural_network_on_python**](https://github.com/primera7790/Neural_network_on_python) &nbsp; &nbsp; __
+- ### [**Neural_network_on_python**](https://github.com/primera7790/Neural_network_on_python) &nbsp; &nbsp;
+
+  - **Используемые технологии:**
+    - Язык программирования: &nbsp; `python` ;
+    - Библиотеки: &nbsp; `numpy` , `matplotlib` ;
+    - Используемые датасеты: &nbsp; `MNIST (pytorch)` .
+
+  - **Описание:**<br>
+  
+  &nbsp; &nbsp; Полносвязная нейронная сеть, написанная с нуля, только на связке python + numpy.<br>
+  &nbsp; &nbsp; __Задача алгоритма:__ &nbsp; распознавание (классификация) рукописных цифр.<br>
+  &nbsp; &nbsp; __Используемые данные:__ &nbsp; датасет MNIST из библиотеки torchvision, PyTorch.<br>
+  &nbsp; &nbsp; __Функция активации:__ &nbsp; ReLU.<br>
+  &nbsp; &nbsp; __Функция потерь:__ &nbsp; softmax + cross-entropy.
+      
 - ### [**ML_training_Yandex**](https://github.com/primera7790/ML_training_Yandex) &nbsp; &nbsp; __
 - ### [**Algo-3.0-Yandex**](https://github.com/primera7790/Algo-3.0-Yandex) &nbsp; &nbsp; __
   
