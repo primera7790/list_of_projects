@@ -54,9 +54,9 @@
   - **Описание:**<br>
   
   &nbsp; &nbsp; Полносвязная нейронная сеть, написанная с нуля, только на связке python + numpy:<br>
-  &nbsp; &nbsp; &nbsp; - &nbsp; Задача алгоритма: &nbsp; распознавание (классификация) рукописных цифр.<br>
-  &nbsp; &nbsp; &nbsp; - &nbsp; Используемые данные: &nbsp; датасет MNIST из библиотеки torchvision, PyTorch.<br>
-  &nbsp; &nbsp; &nbsp; - &nbsp; Функция активации: &nbsp; ReLU.<br>
+  &nbsp; &nbsp; &nbsp; - &nbsp; Задача алгоритма: &nbsp; распознавание (классификация) рукописных цифр;<br>
+  &nbsp; &nbsp; &nbsp; - &nbsp; Используемые данные: &nbsp; датасет MNIST из библиотеки torchvision, PyTorch;<br>
+  &nbsp; &nbsp; &nbsp; - &nbsp; Функция активации: &nbsp; ReLU;<br>
   &nbsp; &nbsp; &nbsp; - &nbsp; Функция потерь: &nbsp; softmax + cross-entropy.
       
 - ### [**ML_training_Yandex**](https://github.com/primera7790/ML_training_Yandex) &nbsp; &nbsp; __
@@ -75,7 +75,12 @@
 
   - **Описание:**<br>
   
-  &nbsp; &nbsp; Онлайн магазин одежды, содержащий каталог с товарами по категориям, личный кабинет с корзиной, а также возможность регистрации и авторизации. 
+  &nbsp; &nbsp; Онлайн магазин одежды, в структуру которого включены:<br>
+  &nbsp; &nbsp; &nbsp; - &nbsp; каталог с товарами по категориям;<br>
+  &nbsp; &nbsp; &nbsp; - &nbsp; личный кабинет;<br>
+  &nbsp; &nbsp; &nbsp; - &nbsp; корзина;<br>
+  &nbsp; &nbsp; &nbsp; - &nbsp; окно регистрации;<br>
+  &nbsp; &nbsp; &nbsp; - &nbsp; окно авторизации.<br>
     
       
 - ### [**html_css_project**](https://github.com/primera7790/html_css_project) &nbsp; &nbsp; __
