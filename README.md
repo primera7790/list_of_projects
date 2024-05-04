@@ -4,7 +4,7 @@
 #### _! Обратите внимание: названия проектов являются гиперссылками к их репозиториям, содержащих более подробную информацию._
 
 ## **> Pet-проекты**
-- ### [**ZAVOD_project.**](https://github.com/primera7790/ZAVOD_project/tree/master/zavod) &nbsp; &nbsp;
+- ### [**ZAVOD_project**](https://github.com/primera7790/ZAVOD_project/tree/master/zavod) &nbsp; &nbsp;
   
   - **Используемые технологии:**
     - Язык программирования: &nbsp; `python` ;
@@ -24,7 +24,7 @@
     - агрегация, аналитика и визуализация (формирование презентации).
 
       
-- ### [**Trading_assistant.**](https://github.com/primera7790/Trading_assistant) &nbsp; &nbsp;
+- ### [**Trading_assistant**](https://github.com/primera7790/Trading_assistant) &nbsp; &nbsp;
 
   - **Используемые технологии:**
     - Язык программирования: &nbsp; `python` ;
@@ -44,12 +44,12 @@
   
 
 ## **> Сверхполезная практика**
-- ### [**Neural_network_on_python.**](https://github.com/primera7790/Neural_network_on_python) &nbsp; &nbsp; __
-- ### [**ML_training_Yandex.**](https://github.com/primera7790/ML_training_Yandex) &nbsp; &nbsp; __
-- ### [**Algo-3.0-Yandex.**](https://github.com/primera7790/Algo-3.0-Yandex) &nbsp; &nbsp; __
+- ### [**Neural_network_on_python**](https://github.com/primera7790/Neural_network_on_python) &nbsp; &nbsp; __
+- ### [**ML_training_Yandex**](https://github.com/primera7790/ML_training_Yandex) &nbsp; &nbsp; __
+- ### [**Algo-3.0-Yandex**](https://github.com/primera7790/Algo-3.0-Yandex) &nbsp; &nbsp; __
   
 ## **> Прочие работы на закрепление знаний**
-- ### [**Django_store_edu.**](https://github.com/primera7790/Django_store_edu) &nbsp; &nbsp;
+- ### [**Django_store_edu**](https://github.com/primera7790/Django_store_edu) &nbsp; &nbsp;
   
   - **Используемые технологии:**
     - Язык программирования: &nbsp; `python` ;
@@ -64,9 +64,9 @@
   &nbsp; &nbsp; Онлайн магазин одежды, содержащий каталог с товарами по категориям, личный кабинет с корзиной, а также возможность регистрации и авторизации. 
     
       
-- ### [**html_css_project.**](https://github.com/primera7790/html_css_project) &nbsp; &nbsp; __
-- ### [**health_diet_parser.**](https://github.com/primera7790/health_diet_parser) &nbsp; &nbsp; __
-- ### [**amalgama_lab_parser.**](https://github.com/primera7790/amalgama_lab_parser) &nbsp; &nbsp; __
-- ### [**Trading_assist_bot.**](https://github.com/primera7790/Trading_assist_bot) &nbsp; &nbsp; __
-- ### [**Owl_Telegram_bot.**](https://github.com/primera7790/Owl_Telegram_bot) &nbsp; &nbsp; __
-- ### [**Sticker_Telegram_bot.**](https://github.com/primera7790/Sticker_Telegram_bot) &nbsp; &nbsp; __
+- ### [**html_css_project**](https://github.com/primera7790/html_css_project) &nbsp; &nbsp; __
+- ### [**health_diet_parser**](https://github.com/primera7790/health_diet_parser) &nbsp; &nbsp; __
+- ### [**amalgama_lab_parser**](https://github.com/primera7790/amalgama_lab_parser) &nbsp; &nbsp; __
+- ### [**Trading_assist_bot**](https://github.com/primera7790/Trading_assist_bot) &nbsp; &nbsp; __
+- ### [**Owl_Telegram_bot**](https://github.com/primera7790/Owl_Telegram_bot) &nbsp; &nbsp; __
+- ### [**Sticker_Telegram_bot**](https://github.com/primera7790/Sticker_Telegram_bot) &nbsp; &nbsp; __
