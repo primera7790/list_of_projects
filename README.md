@@ -137,9 +137,18 @@
   &nbsp; &nbsp; wow_project: &nbsp; https://primera7790.github.io/Roman_project_html_css_only/wow_project/
 
 
+- ### [**health_diet_parser**](https://github.com/primera7790/health_diet_parser) &nbsp; &nbsp;
+  - **Используемые технологии:**
+    - Язык программирования: &nbsp; `python` ;
+    - Основные библиотеки: &nbsp; `beautifulsoup4` , `requests` , `lxml` .
 
+  - **Описание:**<br>
+  
+  &nbsp; &nbsp; Парсер собирает данные с сайта о различной еде и блюдах.<br>
+  формирует csv-таблицы по категориям. Для каждой позиции указывается содержание белков, жиров и углеводов.<br>
+  Также сохраняет страницы с категориями в .html формате и информацию с них в .json формате.
 
-- ### [**health_diet_parser**](https://github.com/primera7790/health_diet_parser) &nbsp; &nbsp; __
+  
 - ### [**amalgama_lab_parser**](https://github.com/primera7790/amalgama_lab_parser) &nbsp; &nbsp; __
 - ### [**Trading_assist_bot**](https://github.com/primera7790/Trading_assist_bot) &nbsp; &nbsp; __
 - ### [**Owl_Telegram_bot**](https://github.com/primera7790/Owl_Telegram_bot) &nbsp; &nbsp; __
