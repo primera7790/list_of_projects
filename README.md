@@ -58,7 +58,7 @@
       
 - ### [**ML_training_Yandex**](https://github.com/primera7790/ML_training_Yandex) &nbsp; &nbsp;
 
-  - **Используемые технологии:**
+  - **Технологии:**
       - Язык: &nbsp; `python` ;
       - Среда выполнения: &nbsp; `jupiter notebook` , `google colab` ;
       - Библиотеки: &nbsp; `numpy`, `sklearn` , `matplotlib`, `scipy` , `pytorch` , `shap` ;
@@ -78,7 +78,7 @@
     
 - ### [**Algo-3.0-Yandex**](https://github.com/primera7790/Algo-3.0-Yandex) &nbsp; &nbsp;
 
-  - **Используемые технологии:**
+  - **Технологии:**
       - Язык: &nbsp; `python` .
    
   - **Описание:**<br>
@@ -97,7 +97,7 @@
 ## **Прочие работы на закрепление знаний**
 - ### [**Django_store_edu**](https://github.com/primera7790/Django_store_edu) &nbsp; &nbsp;
   
-  - **Используемые технологии:**
+  - **Технологии:**
     - Язык: &nbsp; `python` ;
     - Фреймворки: &nbsp; `django` ;
     - Сайта: &nbsp; `html` , `css` , `javascript` ;
