@@ -80,7 +80,7 @@
 &nbsp; &nbsp; &nbsp; - &nbsp; распределение Лапласа;<br>
 &nbsp; &nbsp; &nbsp; - &nbsp; производные для уравнений линейной регрессии;<br>
 &nbsp; &nbsp; &nbsp; - &nbsp; степенной метод, алгоритм поиска собственных векторов матриц и собственных значений;<br>
-&nbsp; &nbsp; &nbsp; - &nbsp; метод Bootstrap aggregating и способ оценки Out-of-bag score.<br>
+&nbsp; &nbsp; &nbsp; - &nbsp; метод Bootstrap aggregating и способ оценки Out-of-bag score;<br>
 &nbsp; &nbsp; &nbsp; - &nbsp; алгоритм бустинга;<br>
 &nbsp; &nbsp; &nbsp; - &nbsp; простая нейронная сеть на PyTorch, Deep learning;<br>
 &nbsp; &nbsp; &nbsp; - &nbsp; оценка значимости признаков модели.
