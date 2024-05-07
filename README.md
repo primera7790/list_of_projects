@@ -163,7 +163,7 @@
 
 ### [**amalgama_lab_parser**](https://github.com/primera7790/amalgama_lab_parser) &nbsp; &nbsp; 
 
-**Используемые технологии:**
+**Технологии:**
   - Язык программирования: &nbsp; `python` ;
   - Основные библиотеки: &nbsp; `beautifulsoup4` , `requests` , `lxml` , `urllib3` .
 
