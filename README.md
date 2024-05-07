@@ -163,11 +163,11 @@
 
 ### [**amalgama_lab_parser**](https://github.com/primera7790/amalgama_lab_parser) &nbsp; &nbsp; 
 
-## Используемые технологии:
+**Используемые технологии:**
   - Язык программирования: &nbsp; `python` ;
   - Основные библиотеки: &nbsp; `beautifulsoup4` , `requests` , `lxml` , `urllib3` .
 
-## Описание:
+**Описание:**
   
   &nbsp; &nbsp; Парсинг текста песен с построчным переводом.<br>
   &nbsp; &nbsp; Указываем URL ссылку на страницу с интересующей композицией на сайте amalgama-lab.com.<br>
