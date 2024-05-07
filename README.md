@@ -136,9 +136,7 @@
 **Описание:**<br>
 
 &nbsp; &nbsp; Roman_project - шуточная страничка про друга.. для друга. Практиковался писать несложные страницы.<br>
-&nbsp; &nbsp; wow_project - страничка-тест на том же скелете. А насколько хорошо Вы знакомы с классами в World of Warcraft?<br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-Задача - определить класс по сленговому названию.
+&nbsp; &nbsp; wow_project - страничка-тест на том же скелете. А насколько хорошо Вы знакомы с классами в World of Warcraft? Задача - определить класс по сленговому названию.
 
 **Ссылки для ознакомления:**<br>
 
