@@ -1,11 +1,11 @@
 # Список проектов
 
-## **> Pet-проекты**
+## **Pet-проекты**
 - ### [**ZAVOD_project**](https://github.com/primera7790/ZAVOD_project/tree/master/zavod) &nbsp; &nbsp;
   
-  - **Используемые технологии:**
-    - Язык программирования: &nbsp; `python` ;
-    - Основные библиотеки: &nbsp; `pandas` , `numpy` , `sklearn` , `matplotlib` ;
+  - **Технологии:**
+    - Язык: &nbsp; `python` ;
+    - Библиотеки: &nbsp; `pandas` , `numpy` , `sklearn` , `matplotlib` ;
     - ML-алгоритмы: &nbsp; `kNN` , `Decision Tree` .
 
   - **Описание:**<br>
@@ -23,10 +23,10 @@
       
 - ### [**Trading_assistant**](https://github.com/primera7790/Trading_assistant) &nbsp; &nbsp;
 
-  - **Используемые технологии:**
-    - Язык программирования: &nbsp; `python` ;
-    - Используемые фреймворки: &nbsp; `django` ;
-    - Написание сайта: &nbsp; `html` , `css` ;
+  - **Технологии:**
+    - Язык: &nbsp; `python` ;
+    - Фреймворки: &nbsp; `django` ;
+    - Сайт: &nbsp; `html` , `css` ;
     - Парсинг: &nbsp; `requests` , `bs4` , `lxml` , `selenium` ;
     - База данных: &nbsp; `sqlite3` ;
     - Телеграм бот: &nbsp; `aiogram` ;
@@ -40,13 +40,13 @@
 
 <br>  
 
-## **> Сверхполезная практика**
+## **Мои решения практических задач**
 - ### [**Neural_network_on_python**](https://github.com/primera7790/Neural_network_on_python) &nbsp; &nbsp;
 
-  - **Используемые технологии:**
-    - Язык программирования: &nbsp; `python` ;
+  - **Технологии:**
+    - Язык: &nbsp; `python` ;
     - Библиотеки: &nbsp; `numpy` , `matplotlib` ;
-    - Используемые датасеты: &nbsp; `MNIST (pytorch)` .
+    - Датасеты: &nbsp; `MNIST (pytorch)` .
 
   - **Описание:**<br>
   
@@ -59,14 +59,14 @@
 - ### [**ML_training_Yandex**](https://github.com/primera7790/ML_training_Yandex) &nbsp; &nbsp;
 
   - **Используемые технологии:**
-      - Язык программирования: &nbsp; `python` ;
+      - Язык: &nbsp; `python` ;
       - Среда выполнения: &nbsp; `jupiter notebook` , `google colab` ;
       - Библиотеки: &nbsp; `numpy`, `sklearn` , `matplotlib`, `scipy` , `pytorch` , `shap` ;
-      - Используемые датасеты: &nbsp; `DESCR (sklearn)` , `MNIST (pytorch)` .
+      - Датасеты: &nbsp; `DESCR (sklearn)` , `MNIST (pytorch)` .
   
    - **Описание:**<br>
   
-    &nbsp; &nbsp; Практические задачи на написание ручной реализации разлчных методов и подходов, используемых в ML:<br>
+    &nbsp; &nbsp; Практические задачи по ML. Ручная реализации методов и подходов, используемых в ML:<br>
     &nbsp; &nbsp; &nbsp; - &nbsp; метод k-ближайших соседей;<br>
     &nbsp; &nbsp; &nbsp; - &nbsp; распределение Лапласа;<br>
     &nbsp; &nbsp; &nbsp; - &nbsp; производные для уравнений линейной регрессии;<br>
@@ -79,11 +79,11 @@
 - ### [**Algo-3.0-Yandex**](https://github.com/primera7790/Algo-3.0-Yandex) &nbsp; &nbsp;
 
   - **Используемые технологии:**
-      - Язык программирования: &nbsp; `python` .
+      - Язык: &nbsp; `python` .
    
   - **Описание:**<br>
   
-  &nbsp; &nbsp; Решение алгоритмических задач различной направленности:<br>
+  &nbsp; &nbsp; Решение алгоритмических задач, затрагивающих:<br>
   &nbsp; &nbsp; &nbsp; - &nbsp; стеки;<br>
   &nbsp; &nbsp; &nbsp; - &nbsp; очереди, деки и приоритетные очереди;<br>
   &nbsp; &nbsp; &nbsp; - &nbsp; динамическое программирование с одним параметром;<br>
@@ -94,15 +94,15 @@
 
 <br>
   
-## **> Прочие работы на закрепление знаний**
+## **Прочие работы на закрепление знаний**
 - ### [**Django_store_edu**](https://github.com/primera7790/Django_store_edu) &nbsp; &nbsp;
   
   - **Используемые технологии:**
-    - Язык программирования: &nbsp; `python` ;
-    - Фреймворк: &nbsp; `django` ;
-    - Написание сайта: &nbsp; `html` , `css` , `javascript` ;
+    - Язык: &nbsp; `python` ;
+    - Фреймворки: &nbsp; `django` ;
+    - Сайта: &nbsp; `html` , `css` , `javascript` ;
     - База данных: &nbsp; `sqlite3` ;
-    - Вспомогательные библиотеки: &nbsp; `pillow` ;
+    - Библиотеки: &nbsp; `pillow` ;
     - Хостинг: &nbsp; ``.
 
   - **Описание:**<br>
@@ -117,7 +117,7 @@
       
 - ### [**Roman_project + wow_project (html, css only)**](https://github.com/primera7790/Roman_project_html_css_only) &nbsp; &nbsp; 
 
-  - **Используемые технологии:**
+  - **Технологии:**
     - HTML5;
     - CSS3.
       
@@ -135,9 +135,9 @@
 
 
 - ### [**health_diet_parser**](https://github.com/primera7790/health_diet_parser) &nbsp; &nbsp;
-  - **Используемые технологии:**
-    - Язык программирования: &nbsp; `python` ;
-    - Основные библиотеки: &nbsp; `beautifulsoup4` , `requests` , `lxml` .
+  - **Технологии:**
+    - Язык: &nbsp; `python` ;
+    - Библиотеки: &nbsp; `beautifulsoup4` , `requests` , `lxml` .
 
   - **Описание:**<br>
   
