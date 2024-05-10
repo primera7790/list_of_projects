@@ -189,6 +189,10 @@
   &nbsp; &nbsp; Даёт случайный ответ на закрытый вопрос.<br>
   &nbsp; &nbsp; Немногословный товарищ, всегда поможет советом.. это же явно интересней подброшенной монетки!
 
+**Ссылка:**
+
+  &nbsp; &nbsp; https://t.me/owl_companion_bot
+
 <br>
 
 ### [**Sticker_converter_bot**](https://github.com/primera7790/Sticker_converter_bot) &nbsp; &nbsp; 
@@ -202,3 +206,7 @@
   &nbsp; &nbsp; Отсылаешь стикер.<br>
   &nbsp; &nbsp; Получаешь его же в .png формате.<br>
   &nbsp; &nbsp; Бот, сумевший найти свое призвание в этом мире. И ни действия более.
+
+**Ссылка:**
+
+  &nbsp; &nbsp; https://t.me/sticker_to_pdf_bot
