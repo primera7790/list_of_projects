@@ -122,8 +122,7 @@
 - Фреймворки: &nbsp; `django` ;
 - Сайта: &nbsp; `html` , `css` , `javascript` ;
 - База данных: &nbsp; `sqlite3` ;
-- Библиотеки: &nbsp; `pillow` ;
-- Хостинг: &nbsp; ``.
+- Библиотеки: &nbsp; `pillow` .
 
 **Описание:**<br>
   
