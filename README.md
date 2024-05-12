@@ -122,7 +122,8 @@
 - Фреймворки: &nbsp; `django` ;
 - Сайта: &nbsp; `html` , `css` , `javascript` ;
 - База данных: &nbsp; `sqlite3` ;
-- Библиотеки: &nbsp; `pillow` .
+- Библиотеки: &nbsp; `pillow` ;
+- Хостинг: &nbsp; `pythonanywhere` .
 
 **Описание:**<br>
   
@@ -132,6 +133,10 @@
 &nbsp; &nbsp; &nbsp; - &nbsp; корзина;<br>
 &nbsp; &nbsp; &nbsp; - &nbsp; окно регистрации;<br>
 &nbsp; &nbsp; &nbsp; - &nbsp; окно авторизации.
+
+**Сайт**:<br>
+
+&nbsp; &nbsp; https://primera3472.pythonanywhere.com/
 
 <br>
       
