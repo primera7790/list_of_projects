@@ -36,7 +36,7 @@
 - Парсинг: &nbsp; `requests` , `bs4` , `lxml` , `selenium` ;
 - База данных: &nbsp; `sqlite3` ;
 - Телеграм бот: &nbsp; `aiogram` ;
-- Автоматизация: &nbsp; `asyncio` , `apscheduler` , `celery` , `rabbitmq` , `docker` ;
+- Автоматизация: &nbsp; `asyncio` , `apscheduler` , `celery` , `rabbitmq` , `docker` .
     
 **Описание:**<br>
   
