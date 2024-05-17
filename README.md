@@ -35,7 +35,7 @@
 - Сайт: &nbsp; `html` , `css` ;
 - Парсинг: &nbsp; `requests` , `bs4` , `lxml` , `selenium` ;
 - База данных: &nbsp; `sqlite3` ;
-- Телеграм бот: &nbsp; `aiogram` ;
+- Телеграм-бот: &nbsp; `aiogram` ;
 - Автоматизация: &nbsp; `asyncio` , `apscheduler` , `celery` , `rabbitmq` , `docker` .
     
 **Описание:**<br>
@@ -187,7 +187,21 @@
 
 <br>
 
-### [**Trading_assist_bot**](https://github.com/primera7790/Trading_assist_bot) &nbsp; &nbsp; __
+### [**Trading_assist_bot**](https://github.com/primera7790/Trading_assist_bot) &nbsp; &nbsp;
+
+**Технологии:**
+  - Язык программирования: &nbsp; `python` ;
+  - Парсинг: &nbsp; `requests` , `bs4` , `lxml` , `selenium` ;
+  - База данных: &nbsp; `sqlite3` ;
+  - Телеграм-бот: &nbsp; `aiogram` ;
+  - Автоматизация: &nbsp; `asyncio` , `apscheduler` .
+
+**Описание:**
+  
+  &nbsp; &nbsp; Часть проекта [Trading_assistant](https://github.com/primera7790/Trading_assistant), реализованная через Телеграм-бота.<br>
+  &nbsp; &nbsp; Запускаем, начинается поиск информации о новой сделке.<br>
+  &nbsp; &nbsp; В случае обнаружения, данные прогоняются через алгоритм.<br>
+  &nbsp; &nbsp; Мы получаем актуальную величину следующей сделки, либо требование прекращения торговли на этот день.
 
 <br>
 
