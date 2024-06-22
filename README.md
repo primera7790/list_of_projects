@@ -46,7 +46,7 @@
 
 <br>  
 
-## **Решаю практические задачи**
+## **Практические задачи**
 
 ### [**Neural_network_on_python**](https://github.com/primera7790/Neural_network_on_python) &nbsp; &nbsp;
 &nbsp; &nbsp; Поставил сам себе задачу реализовать вручную каждый из этапов работы полносвязной нейронной сети.<br>
@@ -113,7 +113,7 @@
 
 <br>
   
-## **Пишу программы на закрепление знаний**
+## **Закрепление знаний**
 
 ### [**Django_store_edu**](https://github.com/primera7790/Django_store_edu) &nbsp; &nbsp;
   
