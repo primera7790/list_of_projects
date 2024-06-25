@@ -4,7 +4,7 @@
 
 ## **Pet-проекты**
 
-### [**ZAVOD_project**](https://github.com/primera7790/ZAVOD_project/tree/master/zavod) &nbsp; &nbsp;
+### [**ZAVOD_project**](https://github.com/primera7790/ZAVOD_project/tree/master/zavod)
   
 **Технологии:**
 - Язык: &nbsp; `python` ;
@@ -27,7 +27,7 @@
 
 <br>
 
-### [**Trading_assistant**](https://github.com/primera7790/Trading_assistant) &nbsp; &nbsp;
+### [**Trading_assistant**](https://github.com/primera7790/Trading_assistant)
 
 **Технологии:**
 - Язык: &nbsp; `python` ;
@@ -46,9 +46,26 @@
 
 <br>  
 
+## **Соревнования на Kaggle.com**
+
+### [**House Prices - Advanced Regression Techniques**](https://github.com/primera7790/Kaggle.com/tree/master/House%20Prices%20-%20Advanced%20Regression%20Techniques)
+
+**Технологии:**
+- Язык: &nbsp; `python`;
+- Библиотеки: &nbsp; `pandas`, `numpy`, `sklearn`, `matplotlib`, `optuna`;
+- Алгоритмы: &nbsp; `XGBoost`.
+
+**Описание на Kaggle.сom:** <br>
+
+&nbsp; &nbsp; [House Prices - Advanced Regression Techniques](https://www.kaggle.com/competitions/house-prices-advanced-regression-techniques/overview)<br>
+&nbsp; &nbsp; Score: 0.12933 (Root Mean Squared Logarithmic Error). <br>
+&nbsp; &nbsp; Among the top 21-25%.
+
+<br>
+
 ## **Практические задачи**
 
-### [**Neural_network_on_python**](https://github.com/primera7790/Neural_network_on_python) &nbsp; &nbsp;
+### [**Neural_network_on_python**](https://github.com/primera7790/Neural_network_on_python)
 &nbsp; &nbsp; Поставил сам себе задачу реализовать вручную каждый из этапов работы полносвязной нейронной сети.<br>
 &nbsp; &nbsp; Значительно улучшил понимание внутренних процессов.<br>
 &nbsp; &nbsp; Структурировал как знания, так и все последовательности внутри класса.
@@ -68,7 +85,7 @@
 
 <br>
 
-### [**ML_training_Yandex**](https://github.com/primera7790/ML_training_Yandex) &nbsp; &nbsp;
+### [**ML_training_Yandex**](https://github.com/primera7790/ML_training_Yandex)
 &nbsp; &nbsp; Решенные задачи: 9/9.<br>
 &nbsp; &nbsp; Углубился в линейную алгебру. Начал видеть данные матрицами и векторами.<br>
 &nbsp; &nbsp; Повысил эффективность своего кода.
@@ -93,7 +110,7 @@
 
 <br>
 
-### [**Algo-3.0-Yandex**](https://github.com/primera7790/Algo-3.0-Yandex) &nbsp; &nbsp;
+### [**Algo-3.0-Yandex**](https://github.com/primera7790/Algo-3.0-Yandex)
 &nbsp; &nbsp; Решено задач: 24.<br>
 &nbsp; &nbsp; Познакомился с понятием асимптотической сложности алгоритмов.<br>
 &nbsp; &nbsp; Выработал привычку оптимизировать собственный код при написании.
@@ -115,7 +132,7 @@
   
 ## **Закрепление знаний**
 
-### [**Django_store_edu**](https://github.com/primera7790/Django_store_edu) &nbsp; &nbsp;
+### [**Django_store_edu**](https://github.com/primera7790/Django_store_edu)
   
 **Технологии:**
 - Язык: &nbsp; `python` ;
@@ -141,7 +158,7 @@
 
 <br>
       
-### [**Roman_project + wow_project (html, css only)**](https://github.com/primera7790/Roman_project_html_css_only) &nbsp; &nbsp; 
+### [**Roman_project + wow_project (html, css only)**](https://github.com/primera7790/Roman_project_html_css_only)
 
 **Технологии:**
 - HTML5;
@@ -159,7 +176,7 @@
 
 <br>
 
-### [**health_diet_parser**](https://github.com/primera7790/health_diet_parser) &nbsp; &nbsp;
+### [**health_diet_parser**](https://github.com/primera7790/health_diet_parser)
 
 **Технологии:**
 - Язык: &nbsp; `python` ;
@@ -173,7 +190,7 @@
 
 <br>
 
-### [**amalgama_lab_parser**](https://github.com/primera7790/amalgama_lab_parser) &nbsp; &nbsp; 
+### [**amalgama_lab_parser**](https://github.com/primera7790/amalgama_lab_parser)
 
 **Технологии:**
   - Язык программирования: &nbsp; `python` ;
@@ -187,7 +204,7 @@
 
 <br>
 
-### [**Trading_assist_bot**](https://github.com/primera7790/Trading_assist_bot) &nbsp; &nbsp;
+### [**Trading_assist_bot**](https://github.com/primera7790/Trading_assist_bot)
 
 **Технологии:**
   - Язык программирования: &nbsp; `python` ;
@@ -204,7 +221,7 @@
 
 <br>
 
-### [**Owl_Telegram_bot**](https://github.com/primera7790/Owl_Telegram_bot) &nbsp; &nbsp; 
+### [**Owl_Telegram_bot**](https://github.com/primera7790/Owl_Telegram_bot)
 
 **Технологии:**
   - Язык программирования: &nbsp; `python` ;
@@ -222,7 +239,7 @@
 
 <br>
 
-### [**Sticker_converter_bot**](https://github.com/primera7790/Sticker_converter_bot) &nbsp; &nbsp; 
+### [**Sticker_converter_bot**](https://github.com/primera7790/Sticker_converter_bot)
 
 **Технологии:**
   - Язык программирования: &nbsp; `python` ;
