@@ -67,7 +67,7 @@
 
 ### **[Linux or Windows from?](https://github.com/primera7790/linux_or_windows)**
 
-**Технологи:**
+**Технологии:**
 - Язык: &nbsp; `python` ;
 - Фреймворки: &nbsp; `mlflow`, `airflow` ;
 - Библиотеки: &nbsp; `sklearn`, `pyyoutube` , `yaml` , `numpy` , `pandas` , `nltk`, `pymystem3` ;
