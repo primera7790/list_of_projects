@@ -69,7 +69,7 @@
 
 **Технологи:**
 - Язык: &nbsp; `python` ;
-- Фреймворки: &nbsp; `mlflow`, `airflow`, `kubeflow` ;
+- Фреймворки: &nbsp; `mlflow`, `airflow` ;
 - Библиотеки: &nbsp; `sklearn`, `pyyoutube` , `yaml` , `numpy` , `pandas` , `nltk`, `pymystem3` ;
 - ML-алгоритмы: &nbsp; `LogisticRegression` , `RandomForestClassifier` .
   
