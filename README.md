@@ -86,6 +86,8 @@
 &nbsp; &nbsp; Трекинг и логирование модели реализованы при помощи ***MLflow***.<br>
 &nbsp; &nbsp; За регулярность переобучения отвечает ***Airflow***.
 
+<br>
+
 ## **Соревнования на Kaggle.com**
 
 ### [**House Prices - Advanced Regression Techniques**](https://github.com/primera7790/Kaggle.com/tree/master/House%20Prices%20-%20Advanced%20Regression%20Techniques)
