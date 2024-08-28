@@ -54,7 +54,7 @@
 - Язык: &nbsp; `python` ;
 - Фреймворки: &nbsp; `pytorch`, `fastapi` ;
 - Библиотеки: &nbsp; `numpy`, `yaml` , `matplotlib` ;
-- Frontend: &nbsp; `html`, `Jinja` ;
+- Frontend: &nbsp; `html`, `jinja` ;
 - ML-алгоритмы: &nbsp; `ModelReg` .
   
 **Описание:** 
