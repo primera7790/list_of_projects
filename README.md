@@ -90,6 +90,19 @@
 
 ## **Соревнования**
 
+### GPN INTELLIGENCE CUP <br> [**Data Scientist в разработке инновационных решений**](https://github.com/primera7790/GPN_INTELLIGENCE_CUP/tree/master/Data%20Scientist%20%D0%B2%20%D1%80%D0%B0%D0%B7%D1%80%D0%B0%D0%B1%D0%BE%D1%82%D0%BA%D0%B5%20%D0%B8%D0%BD%D0%BD%D0%BE%D0%B2%D0%B0%D1%86%D0%B8%D0%BE%D0%BD%D0%BD%D1%8B%D1%85%20%D1%80%D0%B5%D1%88%D0%B5%D0%BD%D0%B8%D0%B9)
+
+**Технологии:**
+- Язык: &nbsp; `python`;
+- Библиотеки: &nbsp; `pandas`,  `sklearn`, `matplotlib`, `seaborn`;
+- Алгоритмы: &nbsp; `XGBoost`, `LinearRegression`, `DecisionTreeRegressor`, `RandomForestRegressor`, `AdaBoostRegressor`, `SVR`.
+
+**Описание:** <br>
+
+&nbsp; &nbsp; Задача на построение модели регрессии с обязательной предобработкой данных.
+
+<br>
+
 ### Kaggle.com <br> [**House Prices - Advanced Regression Techniques**](https://github.com/primera7790/Kaggle.com/tree/master/House%20Prices%20-%20Advanced%20Regression%20Techniques)
 
 **Технологии:**
@@ -102,19 +115,6 @@
 &nbsp; &nbsp; [House Prices - Advanced Regression Techniques](https://www.kaggle.com/competitions/house-prices-advanced-regression-techniques/overview)<br>
 &nbsp; &nbsp; Score: 0.12933 (Root Mean Squared Logarithmic Error). <br>
 &nbsp; &nbsp; Among the top 21-25%.
-
-<br>
-
-### GPN INTELLIGENCE CUP <br> [**Data Scientist в разработке инновационных решений**](https://github.com/primera7790/GPN_INTELLIGENCE_CUP/tree/master/Data%20Scientist%20%D0%B2%20%D1%80%D0%B0%D0%B7%D1%80%D0%B0%D0%B1%D0%BE%D1%82%D0%BA%D0%B5%20%D0%B8%D0%BD%D0%BD%D0%BE%D0%B2%D0%B0%D1%86%D0%B8%D0%BE%D0%BD%D0%BD%D1%8B%D1%85%20%D1%80%D0%B5%D1%88%D0%B5%D0%BD%D0%B8%D0%B9)
-
-**Технологии:**
-- Язык: &nbsp; `python`;
-- Библиотеки: &nbsp; `pandas`,  `sklearn`, `matplotlib`, `seaborn`;
-- Алгоритмы: &nbsp; `XGBoost`, `LinearRegression`, `DecisionTreeRegressor`, `RandomForestRegressor`, `AdaBoostRegressor`, `SVR`.
-
-**Описание:** <br>
-
-&nbsp; &nbsp; Задача на построение модели регрессии с обязательной предобработкой данных.
 
 <br>
 
