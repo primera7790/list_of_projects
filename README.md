@@ -48,6 +48,8 @@
 
 ## **Освоение технологий**
 
+### **YOLO 11 Ultralytics fine tuning <br> [YOLO_v11_Ultralytics_fine_tuning](https://github.com/primera7790/YOLO_v11_Ultralytics_fine_tuning)**
+
 ### **PyTorch + FastAPI + Docker <br> [Pytorch regression problem](https://github.com/primera7790/pytorch_regression)**
 
 **Технологии:**
