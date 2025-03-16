@@ -58,7 +58,7 @@
 **Описание:** 
 
 &nbsp; &nbsp; **Задача:** &nbsp; переобучение модели Yolo11 под задачу классификации цветов автомобилей; <br>
-&nbsp; &nbsp; **Данные:** &nbsp; датасет kaggle 'vehicle-color-dataset'; <br>
+&nbsp; &nbsp; **Данные:** &nbsp; датасет kaggle `vehicle-color-dataset` ; <br>
 &nbsp; &nbsp; **Реализация:** <br>
 &nbsp; &nbsp; &nbsp; - &nbsp; подгружаем датасет; <br>
 &nbsp; &nbsp; &nbsp; - &nbsp; меняем структуру данных под YOLO формат; <br>
