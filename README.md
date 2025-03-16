@@ -56,6 +56,7 @@
 - CV-модели: &nbsp; `YOLO` .
   
 **Описание:** 
+
 &nbsp; &nbsp; **Задача:** &nbsp; переобучение модели Yolo11 под задачу классификации цветов автомобилей; <br>
 &nbsp; &nbsp; **Данные:** &nbsp; датасет kaggle 'vehicle-color-dataset'; <br>
 &nbsp; &nbsp; **Реализация:** <br>
