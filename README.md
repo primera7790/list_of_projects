@@ -27,7 +27,7 @@
 
 <br>
 
-### [**Trading_assistant. First python project (year 2022)**](https://github.com/primera7790/Trading_assistant)
+### [**Trading_assistant. First project (year 2022)**](https://github.com/primera7790/Trading_assistant)
 
 **Технологии:**
 - Язык: &nbsp; `python` ;
