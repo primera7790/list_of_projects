@@ -4,7 +4,7 @@
 
 ## **Pet-проекты**
 
-### [**ZAVOD_project**](https://github.com/primera7790/ZAVOD_project/tree/master/zavod)
+### [**ZAVOD_project (year 2024)**](https://github.com/primera7790/ZAVOD_project/tree/master/zavod)
   
 **Технологии:**
 - Язык: &nbsp; `python` ;
@@ -27,7 +27,7 @@
 
 <br>
 
-### [**Trading_assistant**](https://github.com/primera7790/Trading_assistant)
+### [**Trading_assistant. First python project (year 2022)**](https://github.com/primera7790/Trading_assistant)
 
 **Технологии:**
 - Язык: &nbsp; `python` ;
